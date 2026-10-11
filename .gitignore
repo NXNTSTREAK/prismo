@@ -1,0 +1,14 @@
+# Build output (binaries are published on the Releases page)
+/build/
+/dist/
+
+# Local toolchain (Zig for the Windows cross-compile)
+/.tools/
+
+# Editor / assistant / OS files
+.claude/
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
